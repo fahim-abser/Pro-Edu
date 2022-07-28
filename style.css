@@ -5,3 +5,9 @@
 .reg-bg-color {
     background-color: rgba(30, 143, 255, 0.89);
 }
+
+.carousel-item img {
+    height: 80vh;
+    width: 100%;
+    object-fit: cover;
+}
