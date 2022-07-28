@@ -5,19 +5,3 @@
 .reg-bg-color {
     background-color: rgba(30, 143, 255, 0.89);
 }
-
-/* .carousel-img {
-    opacity: 0.5;
-} */
-
-@media screen and (max-width: 767px) {
-    .hide {
-        display: none;
-    }
-}
-
-@media screen and (max-width: 991px) {
-    .hide {
-        display: none;
-    }
-}
